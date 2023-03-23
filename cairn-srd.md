@@ -338,22 +338,22 @@ Wenn du dich mehr an den traditionellen Klassen orientieren willst, sieh dir die
 
 | | | | |
 | :---: | :--------: | :-------: | :---: |
-| 1-5   | 6-13     | 14-17     | 18-20     |
-| Werkzeug oder Schmuckstück   | Expeditionsausrüstung     | Rüstung oder Waffe     | Zauberbuch |
+| 1-3   | 4-14     | 15-19     | 20     |
+| Nichts   | Brigantine (1 Rüstung, sperrig)    | Kettenhemd (2 Rüstung, sperrig)     | Platte (3 Rüstung, sperrig) |
 
 #### Helme & Schilde
 
 | | | | |
 | :---------------: | :----: | :----: | :-------------: |
 | 1-13 | 14-16 | 17-19 | 20 |
-| Nichts | Helm | Schild | Helm & Schild |
+| Nichts | Helm (+1 Rüstung) | Schild (+1 Rüstung) | Helm & Schild (je +1 Rüstung)|
 
 #### Waffen
 
 | | | | |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
 | 1-5 | 6-14 | 15-19 | 20 |
-| Dolch, Knüppel, Stab | Schwert, Streitkolben, Axt | Langbogen, Armbrust, Schleuder | Hellebarde, Kriegshammer, Streitaxt |
+| Dolch, Knüppel, Stab (W6) | Axt, Streitkolben oder Bastardschwert (W8) | Armbrust (W8, sperrig), Bogen (W6, sperrig) oder Schleuder (W4) | Hellebarde, Kriegshammer oder Streitaxt (W10, sperrig) |
 
 #### Expeditionsausrüstung
 
